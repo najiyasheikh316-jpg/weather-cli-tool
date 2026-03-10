@@ -1,0 +1,3 @@
+NAGPUR | Temp: 30.55°C | Clear Sky | Humidity: 17% | Wind: 1.22 km/h
+NEW YORK | Temp: 18.59°C | Clear Sky | Humidity: 64% | Wind: 2.43 km/h
+JAMMU | Temp: 26.59°C | Overcast Clouds | Humidity: 21% | Wind: 1.58 km/h
